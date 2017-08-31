@@ -1,0 +1,21 @@
+ul a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    line-height: 60px;
+    display: inline;
+    padding: 40px;
+}
+
+ul a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.navigationbar {
+    background-color: dimgrey;
+    height: 60px;
+    overflow: hidden;
+}
